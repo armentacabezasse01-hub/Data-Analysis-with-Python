@@ -3,7 +3,7 @@
 """
 Created on Tue Oct 14 23:43:40 2025
 
-Sergio Armenta , Assignment 4 , October 18th, 2025
+Sergio Armenta , October 18th, 2025
 
 @author: sergioarmenta
 """
